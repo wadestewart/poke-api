@@ -1,12 +1,13 @@
 body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     margin: 0;
 }
 
-p{
+h1 {
     display: block;
     width: 80%;
     max-width: 350px;
